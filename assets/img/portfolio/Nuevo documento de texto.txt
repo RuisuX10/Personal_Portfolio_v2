@@ -1,0 +1,3 @@
+Aspect ratio main: 800 x 463
+
+Aspect ratio : 800 x 600 
