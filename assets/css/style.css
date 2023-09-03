@@ -982,6 +982,7 @@ section .container {
   .portfolio-details .portfolio-info {
     padding-top: 20px;
   }
+
 }
 
 .portfolio-details .swiper-pagination {
@@ -999,6 +1000,14 @@ section .container {
 .portfolio-details .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #18d26e;
 }
+
+@media (max-width:1343px ) {
+  .swiper-slide img{
+    height: auto;
+    max-width: 100%;
+  }
+}
+
 
 /*--------------------------------------------------------------
 # Contact
