@@ -1,4 +1,25 @@
 const projectsData = {
+  takefoods: {
+    title: "E-commerce",
+    images: [
+      "../assets/img/portfolio/Takefood/takefood02.PNG",
+      "../assets/img/portfolio/Takefood/takefood03.PNG",
+      "../assets/img/portfolio/Takefood/takefood04.PNG"
+    ],
+    category: "E-commerce",
+    client: "No Country",
+    date: "03/11/2023",
+    url: "https://c14-41-t-php.vercel.app",
+    repository: "https://github.com/No-Country/c14-41-t-php/tree/master",
+    description: `Characteristics: <br>
+              The following points were taken into account for its development:<br>
+              ✔ Customer registration and login so that new customers can register with their data and can log in later and speed up when placing their orders.<br>
+              ✔ Restaurant administration the owner will have a separate page where he can manage his information, orders and products. In addition to some statistics to perform data analysis.<br>
+              ✔ Complete product management, the owner has the necessary tools to create his products, modify them and delete them. In addition to being able to give it category, availability or preparation time.<br>
+              ✔ Comfortable home page with visibility to all the products offered divided into categories and main access with a single click, profile, products, cart and restaurant.<br>
+              ✔ Order cart where you can view your order with the total to pay and its approximate preparation time.<br>
+              Tecnologies: HTML, Css, Javascript, Vuejs, PHP, Laravel, Mysql, MariaDB`
+  },
   takefood: {
     title: "E-commerce",
     images: [
